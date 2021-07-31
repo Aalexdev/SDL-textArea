@@ -391,4 +391,7 @@ TextArea* updateTextArea(TextArea* TA){
     return TA;
 }
 
+#undef FALSE
+#undef TRUE
+
 #endif
